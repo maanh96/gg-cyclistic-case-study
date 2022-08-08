@@ -1,0 +1,1 @@
+This case study is the capstone assignment for the [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics) program.
