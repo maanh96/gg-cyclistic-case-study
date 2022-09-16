@@ -1,6 +1,6 @@
 # Case Study 1: How Does a Bike-Share Navigate Speedy Success? 
 
-<img src='../cyclistics-logo.png' width='400'>
+![cyclistics-logo](https://user-images.githubusercontent.com/58045173/190650185-d689bee7-faf1-43dc-b259-abc61a6e727b.png)
 
 <br>
 
