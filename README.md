@@ -1,3 +1,5 @@
-This is my capstone assignment for the [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics) program.
+This is my solution for the capstone assignment of [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics) program.
 
-### [Case Study 1: How Does a Bike-Share Navigate Speedy Success?](./Case%20Study%201/)
+## Case Study 1: How Does a Bike-Share Navigate Speedy Success?
+
+<b>Cyclistic</b> is a bike-share company that features more than 5,800 bicycles and 600 docking stations. Until now, Cyclistic’s marketing strategy relied on building general awareness and appealing to broad consumer segments by providing three different pricing plans. Although the pricing ﬂexibility helps Cyclistic attract more customers, the director of marketing believes that maximizing the number of annual members will be key to future growth, thus, rather than creating a marketing campaign that targets all-new customers, they should focus on converting casual riders into members. In order to do that, first, they need to answer the question: <b>"How  do  annual members and casual riders use Cyclistic bikes?"</b>... [Continue](./Case%20Study%201/)

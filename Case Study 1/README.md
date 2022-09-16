@@ -1,13 +1,13 @@
 # Case Study 1: How Does a Bike-Share Navigate Speedy Success? 
 
-![cyclistics-logo](https://user-images.githubusercontent.com/58045173/190650185-d689bee7-faf1-43dc-b259-abc61a6e727b.png)
+<img src='https://user-images.githubusercontent.com/58045173/190650185-d689bee7-faf1-43dc-b259-abc61a6e727b.png' width='400'>
 
 <br>
 
-This case study is the capstone assignment for the [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics) program. Here we assume the role of data analyst working in the marketing analyst team at Cyclistic, a bike-share company in Chicago.
+In this case study, we assume the role of data analyst working in the marketing analyst team at Cyclistic, a bike-share company in Chicago. The director of marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore, we want to understand **"How casual riders and annual members use Cyclistic bikes differently?"**. From these insights, we will design a new marketing strategy to convert casual riders into annual members.
 
 ## Act - Prepare - Process - Analyze
-[Jupyter Notebook](./cyclistic_bikeshare_analysis.ipynb)
+[Notebook](./cyclistic_bikeshare_analysis.ipynb)
 
 ## Share
 [Cleaning Station Info](./clean_station_info.ipynb)
